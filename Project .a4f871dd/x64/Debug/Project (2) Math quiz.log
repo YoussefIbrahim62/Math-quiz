@@ -1,0 +1,7 @@
+﻿  Project (2) Math quiz.cpp
+D:\05- Algorithem P2 course\Project (2) Math quiz\Project (2) Math quiz.cpp(336,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\05- Algorithem P2 course\Project (2) Math quiz\Project (2) Math quiz.cpp(86,1): warning C4715: 'ReturnOperationType': not all control paths return a value
+D:\05- Algorithem P2 course\Project (2) Math quiz\Project (2) Math quiz.cpp(69,1): warning C4715: 'GenerateOperation': not all control paths return a value
+D:\05- Algorithem P2 course\Project (2) Math quiz\Project (2) Math quiz.cpp(101,1): warning C4715: 'ReturnQuestionLevel': not all control paths return a value
+D:\05- Algorithem P2 course\Project (2) Math quiz\Project (2) Math quiz.cpp(158,1): warning C4715: 'CalculateResult': not all control paths return a value
+  Project (2) Math quiz.vcxproj -> D:\05- Algorithem P2 course\Project (2) Math quiz\x64\Debug\Project (2) Math quiz.exe
